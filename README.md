@@ -50,10 +50,12 @@ Several machine learning algorithms were tested, including:
 
 | Model                    | Accuracy |
 |--------------------------|----------|
-| Logistic Regression      | 78%      |
-| Logistic Regression (w/ balanced class weight) | 76% |
-| Random Forest Classifier | 66%     |
+| Logistic Regression      | 72%      |
+| Logistic Regression (w/ balanced class weight) | 78% |
+| Random Forest Classifier | 72%     |
 | Random Forest Classifier (w/ class weights) | 77% |
+| KNN model|74%|
+|Decision Tree|75%|
 
 **Best model accuracy goal**: >90%
 
