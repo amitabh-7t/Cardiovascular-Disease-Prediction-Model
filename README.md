@@ -7,14 +7,14 @@ This project repository includes code and resources to create a machine learning
 ---
 
 ## 📋 **Table of Contents**
-- [Project Overview](#project-overview)
-- [Technologies Used](#technologies-used)
-- [Data and Preprocessing](#data-and-preprocessing)
-- [Model Selection and Performance](#model-selection-and-performance)
-- [Code Structure](#code-structure)
-- [Getting Started](#getting-started)
-- [Results](#results)
-- [Future Work](#future-work)
+- [Project Overview](#-project-overview)
+- [Technologies Used](#-technologies-used)
+- [Data and Preprocessing](#-data-and-preprocessing)
+- [Model Selection and Performance](#-model-selection-and-performance)
+- [Code Structure](#-code-structure)
+- [Getting Started](#-getting-started)
+- [Results](#-results)
+- [Future Work](#-future-work)
 
 ---
 
