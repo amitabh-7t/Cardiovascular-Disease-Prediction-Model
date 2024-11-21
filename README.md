@@ -56,6 +56,7 @@ Several machine learning algorithms were tested, including:
 | Random Forest Classifier (w/ class weights) | 77% |
 | KNN model|74%|
 |Decision Tree|75%|
+|XGBost|84%|
 
 **Best model accuracy goal**: >90%
 
@@ -108,4 +109,4 @@ The final model provides high accuracy for predicting cardiovascular disease, su
 
 Feel free to contribute to this project by opening issues or submitting pull requests. For any inquiries, please contact : ENG23AM0215@dsu.edu.in .
 
-Happy Predicting! 🎉
+## **Happy Predicting!** 🎉
